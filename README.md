@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Madeline 👋</h1>
-<h3 align="center">_Junior Full-Stack Developer from Mississauga, ON._</h3>
+<h3 align="center">Junior Full-Stack Developer from Mississauga, ON.</h3>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MadelineLowes&theme=onedark)](https://github.com/MadelineLowes/github-profile-trophy) -->
 
