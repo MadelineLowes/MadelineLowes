@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello, I'm Madeline 👋</h1>
-<h3 align="center">A Junior Full-Stack Developer from Mississauga, ON.</h3>
+<h3 align="center">Junior Full-Stack Developer from Mississauga, ON.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertiatan&label=Profile%20views&color=0e75b6&style=flat" alt="robertiatan" /> </p>
 
