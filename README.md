@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’ve just graduated from a **Full-Stack Coding Bootcamp** offered through the **University of Toronto**
 
-- 👀 All of my projects and more can be viewed in [my portfolio](https://madelinelowes.github.io/madelines-portfolio/)
+- 👀 :eyes: All of my projects and more can be viewed in [my portfolio](https://madelinelowes.github.io/madelines-portfolio/)
 
 - 📫 How to reach me: **madeline.e.lowes@gmail.com**
 
