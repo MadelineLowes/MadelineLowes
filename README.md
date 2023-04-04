@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **MadelineLowes/MadelineLowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertiatan" alt="robertiatan" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **Full-Stack Web Development at the University of Toronto School of Continuing Studies Bootcamp**
+- 🌱 I’ve just graduated from a **Full-Stack Coding Bootcamp** offered through the **University of Toronto**
 
-- 👨‍💻 All of my projects are available at [https://robertiatan.github.io/portfolio/](https://robertiatan.github.io/portfolio/)
+- 👨‍💻 All of my projects and more can be viewed in [my portfolio](https://madelinelowes.github.io/madelines-portfolio/)
 
-- 📫 How to reach me **robertiatan@gmail.com**
+- 📫 How to reach me: **madeline.e.lowes@gmail.com**
+
 
 <!--
 <h3 align="left">Connect with me:</h3>
