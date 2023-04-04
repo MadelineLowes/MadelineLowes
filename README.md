@@ -14,7 +14,7 @@
 - 📫 How to reach me: **madeline.e.lowes@gmail.com**
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadelineLowes&show_icons=true&locale=en&layout=compact" alt="MadelineLowes" /></p> </br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadelineLowes&show_icons=true&locale=en&layout=compact" alt="MadelineLowes" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MadelineLowes&show_icons=true&locale=en" alt="MadelineLowes" /></p>
 
