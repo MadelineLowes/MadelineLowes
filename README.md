@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 <!--
 **MadelineLowes/MadelineLowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Madeline 👋</h1>
 <h3 align="center">Junior Full-Stack Developer from Mississauga, ON.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadelineLowes&label=Profile%20views&color=0e75b6&style=flat" alt="MadelineLowes" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadelineLowes&theme=onedark)](https://github.com/MadelineLowes/github-profile-trophy)
-
 
 - 🎉 I’ve just graduated from a **Full-Stack Coding Bootcamp** offered through the **University of Toronto**
 
@@ -33,10 +28,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **madeline.e.lowes@gmail.com**
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertiatan&show_icons=true&locale=en&layout=compact" alt="robertiatan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertiatan&show_icons=true&locale=en" alt="robertiatan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MadelineLowes&show_icons=true&locale=en&layout=compact" alt="MadelineLowes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertiatan&" alt="robertiatan" /></p>
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MadelineLowes&show_icons=true&locale=en" alt="MadelineLowes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadelineLowes&" alt="MadelineLowes" /></p>
