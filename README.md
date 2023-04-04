@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello, I'm Madeline 👋</h1>
 <h3 align="center">Junior Full-Stack Developer from Mississauga, ON.</h3>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadelineLowes&label=Profile%20views&color=0e75b6&style=flat" alt="MadelineLowes" /> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertiatan&label=Profile%20views&color=0e75b6&style=flat" alt="MadelineLowes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MadelineLowes" alt="MadelineLowes" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MadelineLowes&theme=onedark)](https://github.com/MadelineLowes/github-profile-trophy)
 
 
 - 🎉 I’ve just graduated from a **Full-Stack Coding Bootcamp** offered through the **University of Toronto**
