@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertiatan" alt="robertiatan" /></a> </p>
 -->
 
-- 🎉 :tada: :computer: I’ve just graduated from a **Full-Stack Coding Bootcamp** offered through the **University of Toronto**
+- 🎉 I’ve just graduated from a **Full-Stack Coding Bootcamp** offered through the **University of Toronto**
 
 - 💻 I have experience with **Bootstrap, CSS, Express, Heroku, HTML, JavaScript, Jest, Git, GitHub, GraphQL, MongoDB, Node.js, React.js (MERN stack), SQL**
 
 - 🌱 I am currently learning Python, C++, and Java
 
-- 👀 :eyes: All of my projects and more can be viewed in [my portfolio](https://madelinelowes.github.io/madelines-portfolio/)
+- 👀 All of my projects and more can be viewed in [my portfolio](https://madelinelowes.github.io/madelines-portfolio/)
 
 - 📫 How to reach me: **madeline.e.lowes@gmail.com**
 
