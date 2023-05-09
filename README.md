@@ -9,7 +9,7 @@
 
 - 🌱 I am currently learning **Python, C++, and Java**
 
-- 👀 All of my projects and more can be viewed in [my portfolio](https://madelinelowes.github.io/madelines-portfolio/)
+- 👀 All of my projects and more can be viewed in [my portfolio](https://mads-portfolio.herokuapp.com/)
 
 - 📫 How to reach me: **madeline.e.lowes@gmail.com**
 
