@@ -11,7 +11,7 @@
 
 - 👀 All of my projects and more can be viewed in [my portfolio](https://mads-portfolio.herokuapp.com/)
 
-- 📫 How to reach me: **madeline.e.lowes@gmail.com**
+- 📫 How to reach me: **madeline.lowes@gmail.com**
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MadelineLowes&show_icons=true&locale=en" alt="MadelineLowes" /></p>
 
