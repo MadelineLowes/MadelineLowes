@@ -7,7 +7,7 @@
 
 - 💻 I have experience with **Bootstrap, CSS, Git, GitHub, GraphQL, Heroku, HTML, JavaScript, Jest.js, MERN stack (MongoDB, Express.js, React.js, Node.js), and MySQL**
 
-- 🌱 I am currently learning **Python, C++, and Java**
+- 🌱 I am currently learning **TypeScript, Next.js, and Python**
 
 - 👀 All of my projects and more can be viewed in [my portfolio](https://mads-portfolio.herokuapp.com/)
 
